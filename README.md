@@ -4,13 +4,13 @@
 	---   VirtualChessBoard v1.0   ---
 
 
-Was ist VirtualChessBoard?
+##Was ist VirtualChessBoard?
 
 	VirtualChessBoard ist ein Programm, welches ein reales Schachbrett simuliert.
 	Es können Figuren platziert und entfernt werden, wie beim realen Äquivalent.
 
 
-Wozu dient VirtualChessBoard?
+##Wozu dient VirtualChessBoard?
 
 	Mit VirtualChessBoard können zB. Schachpartien nachgespielt,
 	Schachstellungen und Eröffnungen erprobt oder ausgetüftelt werden.
@@ -20,7 +20,7 @@ Wozu dient VirtualChessBoard?
 	Dazu speichert Spieler 1 einfach sein Spiel und sendet diesen Speicherstand
 	an Spieler 2 per E-Mail oder Skype oder dem Messenger seiner Wahl.
 
-Features:
+##Features:
 	- Drehe das Schachbrett
 	- Züge werden farblich hervorgehoben
 	- großzügige Undofunktion
@@ -28,7 +28,7 @@ Features:
 
 
 
-Hilfe/FAQs:
+##Hilfe/FAQs:
 
 	F: Wohin speichert VirtualChessBoard die gespeicherten Spiele?
 	A: VirtualChessBoard speichert die Spiele in den selbigen Ordner
@@ -81,7 +81,7 @@ Hilfe/FAQs:
 
 
 
-Was ist VirtualChessBoard NICHT
+##Was ist VirtualChessBoard NICHT
 	
 	Ein Spielen gegen den Computer ist nicht möglich.
 	VirtualChessBoard ist KEINE Schachengine.
@@ -98,7 +98,7 @@ Was ist VirtualChessBoard NICHT
 
 
 
-Figuren- und Schachbrettlayout ändern (Fortgeschritten)
+##Figuren- und Schachbrettlayout ändern (Fortgeschritten)
 
 	Es ist möglich eigene Layouts für VirtualChessBoard zu entwerfen und
 	einzufügen.
@@ -136,7 +136,7 @@ Figuren- und Schachbrettlayout ändern (Fortgeschritten)
 
 
 
-Buttonlayouts ändern (Fortgeschritten)
+##Buttonlayouts ändern (Fortgeschritten)
 	
 	Sowie es möglich ist das Figuren- und Schachbrettlayout zu ändern,
 	so kann auch das Layout der Buttons geändert werden.
